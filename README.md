@@ -13,6 +13,7 @@ Spoilers throughout. Try the puzzle first.
 | June 2024 | [Altered States 2](https://www.janestreet.com/puzzles/altered-states-2-index/) | [Python](2024-06-altered-states-2/) |
 | July 2024 | [Many Happy Returns](https://www.janestreet.com/puzzles/many-happy-returns-index/) | [Google Sheets](2024-07-many-happy-returns/) |
 | June 2025 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Google Sheets](2025-06-some-ones-somewhere/) |
+| February 2026 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Google Sheets](2026-02-subtiles-2/) |
 
 More of my puzzles and projects: [mattabate.com](https://mattabate.com/projects)
 
