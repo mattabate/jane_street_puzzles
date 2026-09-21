@@ -14,6 +14,9 @@ Spoilers throughout. Try the puzzle first.
 | July 2024 | [Many Happy Returns](https://www.janestreet.com/puzzles/many-happy-returns-index/) | [Google Sheets](2024-07-many-happy-returns/) |
 | June 2025 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Google Sheets](2025-06-some-ones-somewhere/) |
 | February 2026 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Google Sheets](2026-02-subtiles-2/) |
+| May 2026 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | Coming soon |
+| June 2026 | [Regional Artwork](https://www.janestreet.com/puzzles/regional-artwork-index/) | Coming soon |
+| July 2026 | ['Pent-Up' Frustration 3 / Knight Moves 7](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | Coming soon |
 
 More of my puzzles and projects: [mattabate.com](https://mattabate.com/projects)
 
